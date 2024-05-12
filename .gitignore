@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore system and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore storage file
+.config/storage
+
